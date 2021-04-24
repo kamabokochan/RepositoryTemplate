@@ -12,7 +12,7 @@
 ## チェックリスト
 レビューをリクエストする前に下記をチェックすること
 
-- [ ] [CONTRIBUTING](./CONTRIBUTING.md)を読んだ
+- [ ] [CONTRIBUTING](https://github.com/kamabokochan/RepositoryTemplate/blob/main/.github/CONTRIBUTING.md))を読んだ
 - [ ] Lintとユニットテストに合格した
 - [ ] 変更の効果/機能/期待を満たすテストを実装した
 - [ ] ドキュメントを追加したか（必要な場合)
