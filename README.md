@@ -4,7 +4,7 @@
   </div>
 </a>
 
-# project_title
+# project Title
 <a href="#">
   <div align="center">
     <img src="/img/about.png" width="800"/>
