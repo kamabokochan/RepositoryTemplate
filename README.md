@@ -19,13 +19,24 @@
 - [References](#references)
 
 ## Dependency
-使用言語とバージョン、必要なライブラリとそのバージョンを書く
-
-## Setup
-セットアップ方法を書く。用意するハードウェアとソフトウェアをセットアップするためのコマンドを記載する
+```
+node: x.xx.x
+```
 
 ## Usage
-使い方。なるべく具体的に書く。サンプルも書く
+1. インストール
+```
+npm install
+# or
+yarn
+```
+
+2. localhost起動
+```
+npm start
+# or
+yarn start
+```
 
 ## BrowserSupport
 | | windows | mac | Android(5.0.0~)  | iOS(10.0.0~) |
