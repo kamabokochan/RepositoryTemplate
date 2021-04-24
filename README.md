@@ -11,6 +11,13 @@
   </div>
 </a>
 
+# Table of Contents
+- [Dependency](#dependency)
+- [Setup](#setup)
+- [Usage](#usage)
+- [BrowserSupport](#browsersupport)
+- [References](#references)
+
 ## Dependency
 使用言語とバージョン、必要なライブラリとそのバージョンを書く
 
@@ -20,7 +27,7 @@
 ## Usage
 使い方。なるべく具体的に書く。サンプルも書く
 
-## Browser Support
+## BrowserSupport
 | | windows | mac | Android(5.0.0~)  | iOS(10.0.0~) |
 | - | :-: | :-: | :-: | :-: |
 | Chrome | ✔️ | ✔️ | ✔️ | ✔️ |
@@ -30,6 +37,6 @@
 | WebView Android | - | - | ✔️ | - |
 
 ## References
-https://karaage.hatenadiary.jp/entry/2018/01/19/073000
-https://github.com/chainer/chainer
-https://github.com/tokyo-metropolitan-gov/covid19
+- https://karaage.hatenadiary.jp/entry/2018/01/19/073000
+- https://github.com/chainer/chainer
+- https://github.com/tokyo-metropolitan-gov/covid19
