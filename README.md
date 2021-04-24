@@ -1,13 +1,13 @@
 <a href="#">
   <div align="center">
-    <img src="https://placehold.jp/100x100.png" width="100"/>
+    <img src="/img/logo.png" width="100"/>
   </div>
 </a>
 
 # project_title
 <a href="#">
   <div align="center">
-    <img src="https://placehold.jp/800x250.png" width="800"/>
+    <img src="/img/about.png" width="800"/>
   </div>
 </a>
 
